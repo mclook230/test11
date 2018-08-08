@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_2" label="2" language="en" table="x_snc_int3802026_1_xba">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_2</element>
+            <help/>
+            <hint/>
+            <label>2</label>
+            <language>en</language>
+            <name>x_snc_int3802026_1_xba</name>
+            <plural>2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mohammed.ali@snc</sys_created_by>
+            <sys_created_on>2018-08-08 13:44:50</sys_created_on>
+            <sys_id>a43af265db3b1700fa0e363ffe9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>2</sys_name>
+            <sys_package display_value="INT3802026-1" source="x_snc_int3802026_1">39eb61f6dbd7d3405f24f1910f961950</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="INT3802026-1">39eb61f6dbd7d3405f24f1910f961950</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_int3802026_1_xba_u_2_en</sys_update_name>
+            <sys_updated_by>mohammed.ali@snc</sys_updated_by>
+            <sys_updated_on>2018-08-08 13:44:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
