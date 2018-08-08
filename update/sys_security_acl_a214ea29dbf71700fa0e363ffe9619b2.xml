@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_int3802026_1_xba</description>
+        <name>x_snc_int3802026_1_xba</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>mohammed.ali@snc</sys_created_by>
+        <sys_created_on>2018-08-08 12:08:18</sys_created_on>
+        <sys_id>a214ea29dbf71700fa0e363ffe9619b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_int3802026_1_xba</sys_name>
+        <sys_package display_value="INT3802026-1" source="x_snc_int3802026_1">39eb61f6dbd7d3405f24f1910f961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="INT3802026-1">39eb61f6dbd7d3405f24f1910f961950</sys_scope>
+        <sys_update_name>sys_security_acl_a214ea29dbf71700fa0e363ffe9619b2</sys_update_name>
+        <sys_updated_by>mohammed.ali@snc</sys_updated_by>
+        <sys_updated_on>2018-08-08 12:08:18</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

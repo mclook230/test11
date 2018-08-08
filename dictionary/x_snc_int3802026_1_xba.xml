@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="XBA" max_length="40" name="x_snc_int3802026_1_xba" type="collection">
+        <element label="1" max_length="32" name="u_1" type="string"/>
+    </element>
+</database>

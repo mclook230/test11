@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_int3802026_1_xba</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>mohammed.ali@snc</sys_created_by>
+        <sys_created_on>2018-08-08 12:08:19</sys_created_on>
+        <sys_id>7614ea29dbf71700fa0e363ffe9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_int3802026_1_xba</sys_name>
+        <sys_package display_value="INT3802026-1" source="x_snc_int3802026_1">39eb61f6dbd7d3405f24f1910f961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="INT3802026-1">39eb61f6dbd7d3405f24f1910f961950</sys_scope>
+        <sys_update_name>ua_table_licensing_config_7614ea29dbf71700fa0e363ffe9619f1</sys_update_name>
+        <sys_updated_by>mohammed.ali@snc</sys_updated_by>
+        <sys_updated_on>2018-08-08 12:08:19</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
