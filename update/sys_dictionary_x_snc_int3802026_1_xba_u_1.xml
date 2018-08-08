@@ -52,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>mohammed.ali@snc</sys_created_by>
         <sys_created_on>2018-08-08 12:08:40</sys_created_on>
-        <sys_id>b7146e29dbf71700fa0e363ffe961910</sys_id>
+        <sys_id>13942669dbf71700fa0e363ffe9619fd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>1</sys_name>
         <sys_package display_value="INT3802026-1" source="x_snc_int3802026_1">39eb61f6dbd7d3405f24f1910f961950</sys_package>
         <sys_policy/>
         <sys_scope display_value="INT3802026-1">39eb61f6dbd7d3405f24f1910f961950</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_int3802026_1_xba_u_1</sys_update_name>
-        <sys_updated_by>mohammed.ali@snc</sys_updated_by>
-        <sys_updated_on>2018-08-08 12:08:40</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-08-08 12:10:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
